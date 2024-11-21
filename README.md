@@ -1,7 +1,4 @@
 ## Terveisiä minulta
 
-### here is how we do it
+### gör så här
 
-*bold* **italic**
-
-$x+y$
